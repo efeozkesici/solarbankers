@@ -1,0 +1,325 @@
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.exe
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csprojAssemblyReference.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfoInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfo.cs
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.xml
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CopyComplete
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.deps.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.dev.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.genruntimeconfig.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.exe
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.deps.json
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.json
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.dev.json
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.pdb
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Business.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Core.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Business.pdb
+D:\repositories\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Core.pdb
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csprojAssemblyReference.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfoInputs.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfo.cs
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CoreCompileInputs.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.RazorTargetAssemblyInfo.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CopyComplete
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.Manifest.cache
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.xml
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.dll
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.pdb
+D:\repositories\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.genruntimeconfig.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.exe
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.deps.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.dev.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CopyComplete
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.xml
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.exe
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.deps.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.dev.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csprojAssemblyReference.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CopyComplete
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.xml
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Task.Business.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Task.Business.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Task.Core.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\MarketMicroservice\bin\Debug\netcoreapp3.1\Task.Core.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.exe
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.deps.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.runtimeconfig.dev.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csprojAssemblyReference.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.csproj.CopyComplete
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MarketMicroservice.StaticWebAssets.xml
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\obj\Debug\netcoreapp3.1\MarketMicroservice.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\MarketMicroservice\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.pdb

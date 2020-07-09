@@ -1,0 +1,370 @@
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.exe
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.xml
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.deps.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.dev.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.exe
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.deps.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.dev.json
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.pdb
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Business.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Core.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Business.pdb
+D:\repositories\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Core.pdb
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.RazorTargetAssemblyInfo.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.xml
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
+D:\repositories\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.exe
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.deps.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.dev.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.xml
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.exe
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.deps.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.dev.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.xml
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Task.Business.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Task.Business.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\service.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Task.Core.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\ApiGateway\bin\Debug\netcoreapp3.1\Task.Core.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\service.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.exe
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.deps.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.runtimeconfig.dev.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CopyComplete
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\ApiGateway.StaticWebAssets.xml
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\ApiGateway\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.pdb

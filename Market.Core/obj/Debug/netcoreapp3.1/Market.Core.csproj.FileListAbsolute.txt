@@ -1,0 +1,47 @@
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.deps.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csprojAssemblyReference.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfoInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfo.cs
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.dev.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.genruntimeconfig.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csproj.CoreCompileInputs.cache
+D:\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.deps.json
+D:\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.json
+D:\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.dev.json
+D:\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.dll
+D:\repositories\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.pdb
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csprojAssemblyReference.cache
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfoInputs.cache
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfo.cs
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csproj.CoreCompileInputs.cache
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.dll
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.pdb
+D:\repositories\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.genruntimeconfig.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.deps.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.dev.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.genruntimeconfig.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.deps.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.runtimeconfig.dev.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Core\obj\Debug\netcoreapp3.1\Market.Core.genruntimeconfig.cache

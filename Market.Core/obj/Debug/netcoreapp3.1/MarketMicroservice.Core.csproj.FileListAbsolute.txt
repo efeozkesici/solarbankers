@@ -1,0 +1,11 @@
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\obj\Debug\netcoreapp3.1\MarketMicroservice.Core.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\obj\Debug\netcoreapp3.1\MarketMicroservice.Core.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\obj\Debug\netcoreapp3.1\MarketMicroservice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.deps.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.runtimeconfig.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.runtimeconfig.dev.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\obj\Debug\netcoreapp3.1\MarketMicroservice.Core.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\obj\Debug\netcoreapp3.1\MarketMicroservice.Core.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Core\obj\Debug\netcoreapp3.1\MarketMicroservice.Core.genruntimeconfig.cache

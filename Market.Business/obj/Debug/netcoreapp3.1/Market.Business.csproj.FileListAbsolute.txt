@@ -1,0 +1,48 @@
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csprojAssemblyReference.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfoInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfo.cs
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CoreCompileInputs.cache
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.deps.json
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CopyComplete
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\aydos\Desktop\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.pdb
+D:\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.deps.json
+D:\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.dll
+D:\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.pdb
+D:\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.dll
+D:\repositories\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.pdb
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csprojAssemblyReference.cache
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfoInputs.cache
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfo.cs
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CoreCompileInputs.cache
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CopyComplete
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.dll
+D:\repositories\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.deps.json
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CopyComplete
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\Enes Aydos\Desktop\SolarBankersTurkey\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.deps.json
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\bin\Debug\netcoreapp3.1\Market.Business.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\bin\Debug\netcoreapp3.1\Market.Core.pdb
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csprojAssemblyReference.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.csproj.CopyComplete
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.dll
+C:\Users\Efe Ali\Desktop\dotnetcore-microservices-master\Market.Business\obj\Debug\netcoreapp3.1\Market.Business.pdb

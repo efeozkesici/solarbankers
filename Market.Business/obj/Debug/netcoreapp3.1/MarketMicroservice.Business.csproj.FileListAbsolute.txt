@@ -1,0 +1,12 @@
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.AssemblyInfoInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.AssemblyInfo.cs
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.csproj.CoreCompileInputs.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.deps.json
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\bin\Debug\netcoreapp3.1\MarketMicroservice.Business.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\bin\Debug\netcoreapp3.1\MarketMicroservice.Core.pdb
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.csprojAssemblyReference.cache
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.csproj.CopyComplete
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.dll
+C:\Users\Efe Ali\Desktop\SolarBankersTask\Market.Business\obj\Debug\netcoreapp3.1\MarketMicroservice.Business.pdb
